@@ -1,0 +1,6 @@
+{
+  "name": "Video Content Hub & Coin Market",
+  "description": "Video content platform with Free and Premium videos, Coin wallet system, and interactive Coin Market.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
